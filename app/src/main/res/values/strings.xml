@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Convertitore di Valute</string>
+    <string name="tvEuro">€</string>
+    <string name="etEuro">Inserisci</string>
+    <string name="tvDollari">$</string>
+    <!--string name="etDollari"></string-->
+    <string name="btConverti">Converti</string>
 </resources>
