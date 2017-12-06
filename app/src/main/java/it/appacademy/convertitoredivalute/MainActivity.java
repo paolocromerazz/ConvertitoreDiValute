@@ -45,7 +45,6 @@ public class MainActivity extends AppCompatActivity {
 
 
         // DONE 7. Scrivere il valore espresso in Dollari nella TextView
-        //dollari.setText(String.valueOf(doubDollari));
         dollari.setText(String.format( "%.2f", doubDollari));
 
     }
